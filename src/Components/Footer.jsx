@@ -1,7 +1,4 @@
 import React from 'react'
-import EmailIcon from '@mui/icons-material/Email';
-import CallIcon from '@mui/icons-material/Call';
-import MapsHomeWorkIcon from '@mui/icons-material/MapsHomeWork';
 const Footer = () => {
   return (
     <div data-aos="fade-up" data-aos-duration="600" className='w-full h-auto text-white lg:px-28 px-4 py-12 mx-auto  footer '>

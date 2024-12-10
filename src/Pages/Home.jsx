@@ -1,6 +1,6 @@
 import React from 'react'
 import Wave from '../assets/wave.svg'
-import { FaWhatsapp } from "react-icons/fa";
+import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import Panah from '../assets/panah.png'
 import ilus from '../assets/ilus.png'
 
@@ -21,7 +21,7 @@ const Home = () => {
           <div className="w-[50%] relative mx-auto">
             <a href="https://wa.me/6281284381118" className="w-[174px] h-[45px] hover:bg-[#A2AC19] bg-[#b6c02b] all duration-150 rounded-md shadow-lg mt-10 flex items-center justify-center gap-2 mx-auto" target="_blank" rel="noopener noreferrer">
               <span className="text-white font-medium text-[14px]">Chat Whatsapp</span>
-              <FaWhatsapp className="text-white h-[18px] w-[18px]" />
+              <WhatsAppIcon className="text-white h-[18px] w-[18px]" />
             </a>
             <img src={Panah} className="w-24 absolute -top-8 -left-20 lg:left-8 transform rotate-[-20deg]" alt="Arrow decoration left" />
             <img src={Panah} className="w-24 absolute -top-4 -right-20 lg:right-8 transform rotate-[120deg]" alt="Arrow decoration right" />

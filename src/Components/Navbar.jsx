@@ -1,9 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import Logo from '../assets/Logo.png';
-import { IoIosMenu, IoIosClose } from "react-icons/io";
-import { FaWhatsapp } from "react-icons/fa";
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
+import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -52,7 +51,7 @@ const Navbar = () => {
             <li onClick={() => setMenu("carapesan")} className={menu === "carapesan" ? "active" : " text-[#1111118b] hover:text-black all duration-300 ea"}><a href='#timeline'>Cara Pesan</a></li>
             <li onClick={() => setMenu("faq")} className={menu === "faq" ? "active" : " text-[#1111118b] hover:text-black all duration-300 ea"}><a href='#faq'>FAQs</a></li>
             <button className='w-32 h-12 hidden lg:flex gap-1 items-center justify-center text-sm bg-[#b6c02b] text-white rounded-lg'>
-              <FaWhatsapp className="text-white h-[18px] w-[18px]" />
+              <WhatsAppIcon className="text-white h-[18px] w-[18px]" />
               <a href='https://wa.me/6281284381118'>Konsultasi</a>
             </button>
           </ul>

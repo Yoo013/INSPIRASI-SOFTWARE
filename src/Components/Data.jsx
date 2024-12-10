@@ -1,8 +1,4 @@
-import { IoMdStar } from "react-icons/io";
 
-
-
-import { Work, School } from "@mui/icons-material";
 import AnnouncementIcon from '@mui/icons-material/Announcement';
 import ConnectWithoutContactIcon from '@mui/icons-material/ConnectWithoutContact';
 import AccountTreeIcon from '@mui/icons-material/AccountTree';
