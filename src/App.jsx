@@ -9,10 +9,10 @@ import Navbar from './Components/Navbar'
 import Footer from './Components/Footer'
 import { motion, useScroll } from "framer-motion";
 import Bantuan from './Pages/Bantuan'
-// import AOS from 'aos';
-// import 'aos/dist/aos.css';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
-// AOS.init();
+AOS.init();
 
 
 
