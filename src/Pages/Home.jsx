@@ -28,7 +28,7 @@ const Home = () => {
           </div>
         </section>
         <section data-aos="fade-up" data-aos-duration="1000" className="relative w-[80%] mt-10  lg:flex justify-center mx-auto">
-          <img src={ilus} className="w-[800px] h-[400px]" alt="Illustration 1" />
+          <img src={ilus} className="lg:w-[800px] lg:-[400px]" alt="Illustration 1" />
         </section>
       </main>
     </div>
