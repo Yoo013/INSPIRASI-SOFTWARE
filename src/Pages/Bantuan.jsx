@@ -38,6 +38,9 @@ const Bantuan = () => {
 
   const handleForm = () => {
     setForm(!form);
+    if (form) {
+      setSuccess(false); 
+    }
   };
 
   return (
