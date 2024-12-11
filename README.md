@@ -6,12 +6,12 @@
 
 ## Fitur Utama
 
-- **React** ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg): Framework JavaScript untuk membangun antarmuka pengguna interaktif.
-- **Vite** ![Vite Logo](https://vitejs.dev/logo.svg): Bundler yang cepat dan efisien untuk pengembangan frontend.
-- **Tailwind CSS** ![Tailwind CSS Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/Tailwind_CSS_Logo.svg): Framework CSS untuk desain UI yang responsif dan kustomisasi yang mudah.
-- **AOS** ![AOS Logo](https://raw.githubusercontent.com/michalsnik/aos/master/src/img/aos-logo.svg): Library untuk animasi elemen saat pengguna menggulir halaman.
-- **React Timeline** ![React Timeline Logo](https://raw.githubusercontent.com/rezpe/react-timeline-slider/master/public/favicon.ico): Library untuk membuat timeline interaktif yang rapi.
-- **Firebase** ![Firebase Logo](https://upload.wikimedia.org/wikipedia/commons/4/47/Firebase_Logo_2016.svg): Platform backend untuk menerima tiket dari pengguna dan memprosesnya secara real-time.
+- **React**: Framework JavaScript untuk membangun antarmuka pengguna interaktif.
+- **Vite**: Bundler yang cepat dan efisien untuk pengembangan frontend.
+- **Tailwind CSS**: Framework CSS untuk desain UI yang responsif dan kustomisasi yang mudah.
+- **AOS** : Library untuk animasi elemen saat pengguna menggulir halaman.
+- **React Timeline**: Library untuk membuat timeline interaktif yang rapi.
+- **Firebase**: Platform backend untuk menerima tiket dari pengguna dan memprosesnya secara real-time.
 
 ## Penggunaan
 
